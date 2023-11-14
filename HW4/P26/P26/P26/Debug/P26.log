@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+  P26.vcxproj -> C:\Users\thefa\OneDrive\桌面\HW\HW4\P26\P26\P26\..\..\temp\debug\P26.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(335,5): error MSB3374: 無法設定檔案 "Debug\P26.tlog\P26.lastbuildstate" 上次存取/寫入的時間。由於另一個處理序正在使用檔案 'C:\Users\thefa\OneDrive\桌面\HW\HW4\P26\P26\P26\Debug\P26.tlog\P26.lastbuildstate'，所以無法存取該檔案。
